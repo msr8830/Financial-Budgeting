@@ -1,4 +1,3 @@
-package Prog.Assignments;
 import javax.swing.JOptionPane;
 public class CartImplementation {
 
