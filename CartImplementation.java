@@ -1,29 +1,4 @@
 package Prog.Assignments;
-/*
-   Name: Muhammad S. Raza
-   Date: 03/27/2021
-   Course/Section: IT 206.201
-   Assignment: Programming Assignment 6
-   
-   GMU is offering a one-day seminar on “Financial Responsibility as it Relates to Budgeting”. This class is 
-   intended to teach each student the value of a budget. You have been tasked to create an object-oriented 
-   solution to add, remove, and track the subtotal of items in a shopping cart. To demonstrate budgeting, 
-   a cart must have a subtotal no greater than $1500.00 dollars and a maximum of 50 items.
-   
-   Description:
-      This program is built to assist in budgeting and teach students financial responsibilty. It will also let students add,
-      remove and track the subtotal of items in a shopping cart with max allowance of $1,500.00 and max items of 50 items. This
-      program will give options as follows:
-         - Add Item
-            - Item
-            - Warranty Item
-         - Remove Item
-         - Print Cart Subtotal
-         - Print Total Savings Amount
-         - Quit
-      This program will also support the user to figure out the lowest price depending on competitors price and show the total saved amount.
-
-*/
 import javax.swing.JOptionPane;
 public class CartImplementation {
 
