@@ -1,4 +1,3 @@
-package Prog.Assignments;
 public class WarrantyItem extends Item {
 
     private int warrantyDuration;// instance variable to store duration of a warranty for an item
