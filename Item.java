@@ -1,4 +1,3 @@
-package Prog.Assignments;
 public class Item {
    // Instance Variables
     private String ItemName;
